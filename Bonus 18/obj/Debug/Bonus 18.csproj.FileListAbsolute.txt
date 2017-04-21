@@ -1,0 +1,6 @@
+C:\Users\Brett\Desktop\Projects\Labs\Bonus 18\Bonus 18\bin\Debug\Bonus 18.exe.config
+C:\Users\Brett\Desktop\Projects\Labs\Bonus 18\Bonus 18\bin\Debug\Bonus 18.exe
+C:\Users\Brett\Desktop\Projects\Labs\Bonus 18\Bonus 18\bin\Debug\Bonus 18.pdb
+C:\Users\Brett\Desktop\Projects\Labs\Bonus 18\Bonus 18\obj\Debug\Bonus 18.csprojResolveAssemblyReference.cache
+C:\Users\Brett\Desktop\Projects\Labs\Bonus 18\Bonus 18\obj\Debug\Bonus 18.exe
+C:\Users\Brett\Desktop\Projects\Labs\Bonus 18\Bonus 18\obj\Debug\Bonus 18.pdb
